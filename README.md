@@ -5,6 +5,6 @@ Application for calculating the mass-radius relationship of a compact star for s
 
 ## Results
 
-<p align="center">
+<p>
 <img src="https://github.com/DerkNiessink/Stellar_Structure/blob/main/figs/Mass-Radius.png" width="500">
 </p>
